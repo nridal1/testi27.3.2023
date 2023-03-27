@@ -1,0 +1,18 @@
+body {
+
+    background-color: white;
+}
+
+   #eka h1 {
+       color: aqua;
+   }
+       
+                       
+   #toka h1 { 
+       color: blueviolet;
+
+}
+nav a {
+     text-decoration: none;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
